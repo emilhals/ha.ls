@@ -1,5 +1,5 @@
 {
-	"name": "ha.ls",
+	"name": "portfolio",
 	"main": "./dist/_worker.js/index.js",
 	"upload_source_maps": true,
 	// Set this to today's date
