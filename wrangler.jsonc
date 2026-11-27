@@ -1,0 +1,13 @@
+{
+	"name": "ha.ls",
+	"main": "./dist/_worker.js/index.js",
+	"upload_source_maps": true,
+	// Set this to today's date
+	"compatibility_date": "2026-11-22",
+	"assets": {
+		"directory": "./dist"
+	},
+	"observability": {
+		"enabled": true
+	}
+}
